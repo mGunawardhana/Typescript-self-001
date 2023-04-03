@@ -35,3 +35,10 @@
     font-size: 35px;
   }
 }
+
+@media (max-width: 800px) {
+  .heading {
+    margin: 15px 0;
+    font-size: 35px;
+  }
+}
